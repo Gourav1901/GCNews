@@ -4,7 +4,7 @@ import "./News.css";
 import "./NewsApp.css";
 
 function NewsApp() {
-  const apiKey = "01c3cea767314fdf8b12202156190ffd";
+  const apiKey = REACT_APP_NEWS_API_KEY;
   const [newsList, setNewsList] = useState([]);
   const [query, setQuery] = useState("tesla");
   const queryInputRef = useRef(null);
