@@ -23,7 +23,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/newsflash-react.git
+https://github.com/Gourav1901/GCNews.git
 Navigate to the project directory:
 
 bash
