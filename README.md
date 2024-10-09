@@ -1,4 +1,4 @@
-NewsFlash - A Real-Time News Aggregator
+GCNews - A Real-Time News Aggregator
 NewsFlash is a modern React-based news aggregation app that provides real-time access to the latest news from around the globe. Powered by the News API, NewsFlash allows users to search for articles, filter news by categories, and stay up-to-date with current events in a user-friendly interface.
 
 Features
